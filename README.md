@@ -73,7 +73,7 @@ MultisendX is a powerful **decentralized application (DApp)** that enables users
 
 ### 🌐 **Option 1: Use Web App (Recommended)**
 
-1. **Visit** [app.multisendx.com](https://multisendx.com)
+1. **Visit** [multisendx.com](https://multisendx.com)
 2. **Connect** your wallet (MetaMask, WalletConnect, etc.)
 3. **Select** your network and token
 4. **Upload** CSV or enter recipients manually
