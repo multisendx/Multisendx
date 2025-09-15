@@ -143,30 +143,6 @@ We welcome contributions from developers of all skill levels!
 - 🌍 **Translations** - Make MultisendX accessible globally
 
 
-### **Q4 2024**
-- [x] Ethereum, BSC, Polygon support
-- [x] Security audits completion
-- [x] Mobile responsive design
-
-### **Q1 2025** 
-- [x] Arbitrum and Avalanche integration
-- [x] NFT batch distribution
-- [x] Advanced analytics dashboard
-
-### **Q2 2025**
-- [ ] Mobile app (iOS/Android)  
-- [ ] Scheduled distributions
-- [ ] Multi-signature support
-- [ ] API for developers
-
-### **Q3 2025**
-- [ ] Cross-chain distributions
-- [ ] Token vesting schedules
-- [ ] Advanced CSV templates
-- [ ] Enterprise features
-
----
-
 ## 🌐 Community & Support
 
 <div align="center">
