@@ -79,20 +79,8 @@ MultisendX is a powerful **decentralized application (DApp)** that enables users
 
 ## 🚀 Supported Networks
 
-<div align="center">
 
-| Network | Status | Chain ID | Contract Address | 
-|---------|---------|----------|------------------|
-| ![Ethereum](https://raw.githubusercontent.com/multisendx/assets/main/chains/ethereum.svg) **Ethereum** | ✅ **Live** | 1 | [`0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://etherscan.io/address/0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
-| ![BSC](https://raw.githubusercontent.com/multisendx/assets/main/chains/bsc.svg) **BSC** | ✅ **Live** | 56 | [`0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://bscscan.com/address/0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
-| ![Polygon](https://raw.githubusercontent.com/multisendx/assets/main/chains/polygon.svg) **Polygon** | ✅ **Live** | 137 | [`0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://polygonscan.com/address/0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
-| ![Avalanche](https://raw.githubusercontent.com/multisendx/assets/main/chains/avalanche.svg) **Avalanche** | ✅ **Live** | 43114 | [`0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://snowtrace.io/address/0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
-| ![Arbitrum](https://raw.githubusercontent.com/multisendx/assets/main/chains/arbitrum.svg) **Arbitrum** | ✅ **Live** | 42161 | [`0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761`](https://arbiscan.io/address/0xa238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761) |
-| ![Solana](https://raw.githubusercontent.com/multisendx/assets/main/chains/solana.svg) **Solana** | ✅ **Live** | - | [`MSXa1...7GHs`](https://solscan.io/account/MSXa1...7GHs) |
-
-</div>
-
-**Coming Soon**: Optimism, Base, Fantom, NEAR Protocol
+**Supported Blockchain**: Optimism, Base, Fantom, NEAR Protocol
 
 ---
 
@@ -119,7 +107,7 @@ MultisendX is a powerful **decentralized application (DApp)** that enables users
 
 ### 🌐 **Option 1: Use Web App (Recommended)**
 
-1. **Visit** [app.multisendx.com](https://app.multisendx.com)
+1. **Visit** [app.multisendx.com](https://multisendx.com)
 2. **Connect** your wallet (MetaMask, WalletConnect, etc.)
 3. **Select** your network and token
 4. **Upload** CSV or enter recipients manually
