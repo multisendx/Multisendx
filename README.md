@@ -157,7 +157,7 @@ We welcome contributions from developers of all skill levels!
 | Channel | Purpose |
 |---------|---------|
 | 💬 **Discord** | General chat, community support |
-| 📧 **Email** | support@multisendx.com |
+| 📧 **Email** | info@multisendx.com |
 | 📖 **Docs** | Self-service help and guides |
 | 🐛 **GitHub Issues** | Bug reports and feature requests |
 
