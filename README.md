@@ -2,24 +2,11 @@
 
 <div align="center">
 
-![MultisendX Logo](https://raw.githubusercontent.com/multisendx/multisendx/main/assets/logo.png)
+![MultisendX Logo]([https://raw.githubusercontent.com/multisendx/multisendx/main/assets/logo.png](https://multisendx.com/))
 
 **The most efficient way to distribute tokens and NFTs across multiple blockchains**
 
 *Save up to 95% on gas fees with trustless batch transfers*
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://github.com/multisendx/multisendx/workflows/CI/badge.svg)](https://github.com/multisendx/multisendx/actions)
-[![Security Audit](https://img.shields.io/badge/security-audited-green.svg)](https://github.com/multisendx/multisendx/blob/main/audits/)
-[![Version](https://img.shields.io/github/v/release/multisendx/multisendx)](https://github.com/multisendx/multisendx/releases)
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/multisendx)
-[![Twitter](https://img.shields.io/twitter/follow/MultisendX?style=social)](https://twitter.com/MultisendX)
-
-[**🌐 Launch App**](https://app.multisendx.com) • [**📖 Documentation**](https://docs.multisendx.com) • [**💬 Discord**](https://discord.gg/multisendx) • [**🐦 Twitter**](https://twitter.com/MultisendX)
-
-</div>
-
----
 
 ## ⚡ What is MultisendX?
 
@@ -27,7 +14,6 @@ MultisendX is a powerful **decentralized application (DApp)** that enables users
 
 ### 🎯 Perfect for:
 - **💎 Token Airdrops** - Distribute governance tokens to your community
-- **🎨 NFT Collections** - Send NFTs to whitelist holders or collectors  
 - **💰 Reward Distribution** - Pay contributors, stakeholders, and team members
 - **🏛️ DAO Operations** - Distribute voting tokens or governance rewards
 - **📈 Marketing Campaigns** - Token-based promotional activities
@@ -80,28 +66,8 @@ MultisendX is a powerful **decentralized application (DApp)** that enables users
 ## 🚀 Supported Networks
 
 
-**Supported Blockchain**: Optimism, Base, Fantom, NEAR Protocol
+**Supported Blockchain**: Ethereum, BNB Chain, Base, Arbitrum, Optimism, Unichain
 
----
-
-## 📊 Platform Statistics
-
-<div align="center">
-
-| Metric | Value |
-|--------|--------|
-| 🔄 **Total Transactions** | **125,847** |
-| 💰 **Tokens Distributed** | **28.4M+** |
-| 💸 **Gas Fees Saved** | **$4.2M+** |
-| 👥 **Active Users** | **15,230** |
-| 🎯 **Success Rate** | **99.97%** |
-| 🚀 **Uptime** | **99.99%** |
-
-*Updated daily • Last update: September 15, 2025*
-
-</div>
-
----
 
 ## ⚡ Quick Start
 
@@ -114,25 +80,6 @@ MultisendX is a powerful **decentralized application (DApp)** that enables users
 5. **Review** and confirm your distribution
 6. **Execute** in one transaction!
 
-### 🛠️ **Option 2: Run Locally**
-
-```bash
-# Clone the repository
-git clone https://github.com/multisendx/multisendx.git
-cd multisendx
-
-# Install dependencies
-yarn install
-
-# Copy environment file
-cp .env.example .env
-# Edit .env with your configuration
-
-# Start development server
-yarn dev
-
-# Open http://localhost:3000
-```
 
 ### 📋 **CSV Format**
 
@@ -176,23 +123,11 @@ graph TB
 
 ---
 
-## 🛡️ Security & Audits
-
-<div align="center">
-
-| Audit Firm | Date | Status | Report |
-|------------|------|---------|--------|
-| **CertiK** | Sept 2024 | ✅ **Passed** | [View Report](https://github.com/multisendx/multisendx/blob/main/audits/certik-audit.pdf) |
-| **ConsenSys Diligence** | Aug 2024 | ✅ **Passed** | [View Report](https://github.com/multisendx/multisendx/blob/main/audits/consensys-audit.pdf) |
-| **Trail of Bits** | July 2024 | ✅ **Passed** | [View Report](https://github.com/multisendx/multisendx/blob/main/audits/trailofbits-audit.pdf) |
-
-</div>
 
 ### 🔐 **Security Features:**
 - ✅ **No Admin Keys** - Fully decentralized operation
 - ✅ **Open Source** - Complete code transparency
 - ✅ **Audited Contracts** - Multiple professional audits
-- ✅ **Bug Bounty Program** - Up to $50,000 rewards
 
 ---
 
@@ -207,59 +142,6 @@ We welcome contributions from developers of all skill levels!
 - 📖 **Improve Docs** - Help others understand the project
 - 🌍 **Translations** - Make MultisendX accessible globally
 
-### **Get Started:**
-```bash
-# Fork the repo and clone it
-git clone https://github.com/your-username/multisendx.git
-
-# Install dependencies
-yarn install
-
-# Create a feature branch
-git checkout -b feature/awesome-feature
-
-# Make your changes and test
-yarn test
-
-# Submit a pull request
-```
-
-📖 **Read our [Contributing Guide](./CONTRIBUTING.md)** for detailed instructions.
-
----
-
-## 📚 Documentation
-
-<div align="center">
-
-| Documentation | Description |
-|--------------|-------------|
-| [📖 **User Guide**](https://docs.multisendx.com/user-guide) | How to use MultisendX step-by-step |
-| [🛠️ **Developer Docs**](https://docs.multisendx.com/developers) | Integration guides and API reference |
-| [📜 **Smart Contracts**](https://docs.multisendx.com/contracts) | Contract specifications and ABIs |
-| [🔧 **API Reference**](https://docs.multisendx.com/api) | Backend API documentation |
-| [🚀 **Deployment Guide**](https://docs.multisendx.com/deployment) | How to deploy your own instance |
-
-</div>
-
----
-
-## 🏆 Awards & Recognition
-
-<div align="center">
-
-| Award | Organization | Year |
-|-------|-------------|------|
-| 🥇 **Best DeFi Tool** | DeFi Pulse Awards | 2024 |
-| 🏅 **Innovation Award** | ETHGlobal Hackathon | 2024 |
-| ⭐ **Product of the Day** | Product Hunt | 2024 |
-| 🚀 **Top 10 DApp** | DappRadar | 2024 |
-
-</div>
-
----
-
-## 🗺️ Roadmap
 
 ### **Q4 2024**
 - [x] Ethereum, BSC, Polygon support
@@ -291,7 +173,6 @@ yarn test
 
 ### **Join Our Community**
 
-[![Discord](https://img.shields.io/badge/Discord-Join%20Chat-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/multisendx)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MultisendX)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Group-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/multisendx)
 
@@ -331,7 +212,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**🔗 Links**: [Website](https://multisendx.com) | [App](https://app.multisendx.com) | [Docs](https://docs.multisendx.com) | [Blog](https://blog.multisendx.com)
+**🔗 Links**: [Website](https://multisendx.com) | [Twitter](https:x.com/multisendx) | [Telegram](https://t.me/multisendx)
 
 **Made with** ⚡ **by blockchain builders, for blockchain builders**
 
