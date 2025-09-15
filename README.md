@@ -208,7 +208,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### **Built with ❤️ by the MultisendX Team**
 
-**⚠️ Disclaimer**: MultisendX is provided as-is. Always verify transactions and contract interactions. Never send more than you can afford to lose. Do your own research (DYOR).
+**Disclaimer**: MultisendX is provided as-is. Always verify transactions and contract interactions. Never send more than you can afford to lose. Do your own research (DYOR).
 
 ---
 
